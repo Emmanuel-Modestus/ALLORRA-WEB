@@ -1,0 +1,47 @@
+.DIV-1{margin-left: -2px; }
+.div-1 {background-color:aqua ;height: 125px;}
+.LOGO{
+    
+height: 90px;
+padding-top: 10px;}
+.LOGO:hover{
+    cursor: pointer;
+}
+.TITLE-1{
+    color: red;
+    font-weight: bolder;
+ padding-left: 10px;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.div-2 { background-color: gray;padding-top: 10px;padding-bottom: 10px; text-align: right;padding-right: 20px; }
+.TITLE-1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#SEARCH-BAR{ border-radius: 10px;border-color: orangered; }
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+.list-item1{
+    color: red;
+}
+.list-item2{
+    color: darkgreen;
+}
+.list-item3{
+    color: blue;
+}
+.text1{
+color: red;
+}
+.text2{
+    color: darkgreen;
+}
+.text3{
+    color: blue;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
